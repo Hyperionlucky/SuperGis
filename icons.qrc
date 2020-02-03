@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/src">
+        <file>Icons/clear-text.ico</file>
+        <file>Icons/clear-text.png</file>
+        <file>Icons/clear-text-hover.png</file>
+        <file>Icons/search.png</file>
+        <file>Icons/search-hover.png</file>
+        <file>Icons/search-press.png</file>
+    </qresource>
+</RCC>
